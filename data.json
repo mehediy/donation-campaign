@@ -1,0 +1,125 @@
+{
+    "donation_data": [
+      {
+        "picture": "donation1.jpg",
+        "title": "Medical Supplies for Children",
+        "category": "health",
+        "category_bg_color": "#0052ff33",
+        "card_bg_color": "#0052FF26",
+        "text_button_bg_color": "#0052FF",
+        "description": "Help provide essential medical supplies to children in need. Your contribution will go towards ensuring that these children have access to quality healthcare, improving their chances for a healthier future.",
+        "price": 50
+      },
+      {
+        "picture": "donation2.jpg",
+        "title": "Educational Scholarships",
+        "category": "education",
+        "category_bg_color": "#ff444a33",
+        "card_bg_color": "#FF444A26",
+        "text_button_bg_color": "#FF444A",
+        "description": "Support the education of underprivileged students by funding scholarships. Your donation will empower these students to pursue their dreams and break the cycle of poverty through education.",
+        "price": 30
+      },
+      {
+        "picture": "donation3.jpg",
+        "title": "Warm Clothing Drive",
+        "category": "clothing",
+        "category_bg_color": "#79c23f33",
+        "card_bg_color": "#79C23F26",
+        "text_button_bg_color": "#79C23F",
+        "description": "Donate warm clothing to help those in need during the cold winter months. Your generosity will provide warmth and comfort to individuals who are less fortunate.",
+        "price": 20
+      },
+      {
+        "picture": "donation4.jpg",
+        "title": "Food for Families",
+        "category": "food",
+        "category_bg_color": "#f8714733",
+        "card_bg_color": "#F8714726",
+        "text_button_bg_color": "#F87147",
+        "description": "Contribute to our food drive and ensure that families facing hunger have access to nutritious meals. Your support will make a significant difference in their lives.",
+        "price": 40
+      },
+      {
+        "picture": "donation5.jpg",
+        "title": "Medical Outreach Program",
+        "category": "health",
+        "category_bg_color": "#0052ff33",
+        "card_bg_color": "#0052FF26",
+        "text_button_bg_color": "#0052FF",
+        "description": "Join our medical outreach program to provide free healthcare services to underserved communities. Your donation will help save lives and improve health outcomes.",
+        "price": 60
+      },
+      {
+        "picture": "donation6.jpg",
+        "title": "Supporting Remote Education",
+        "category": "education",
+        "category_bg_color": "#ff444a33",
+        "card_bg_color": "#FF444A26",
+        "text_button_bg_color": "#FF444A",
+        "description": "Bridge the digital divide by donating to support remote education initiatives. Your contribution will help students access online learning resources and tools.",
+        "price": 25
+      },
+      {
+        "picture": "donation7.jpg",
+        "title": "Winter Clothing for Children",
+        "category": "clothing",
+        "category_bg_color": "#79c23f33",
+        "card_bg_color": "#79C23F26",
+        "text_button_bg_color": "#79C23F",
+        "description": "Give the gift of warmth to children in need by donating winter clothing. Your kindness will keep them cozy during the cold season.",
+        "price": 15
+      },
+      {
+        "picture": "donation8.jpg",
+        "title": "Emergency Food Relief",
+        "category": "food",
+        "category_bg_color": "#f8714733",
+        "card_bg_color": "#F8714726",
+        "text_button_bg_color": "#F87147",
+        "description": "Help provide emergency food relief to families facing hunger crises. Your support will ensure they have access to immediate sustenance.",
+        "price": 35
+      },
+      {
+        "picture": "donation9.jpg",
+        "title": "Medical Equipment for Clinics",
+        "category": "health",
+        "category_bg_color": "#0052ff33",
+        "card_bg_color": "#0052FF26",
+        "text_button_bg_color": "#0052FF",
+        "description": "Equip medical clinics with essential tools and equipment to better serve their communities. Your donation will enhance healthcare services.",
+        "price": 75
+      },
+      {
+        "picture": "donation10.jpg",
+        "title": "School Supplies for Underprivileged Kids",
+        "category": "education",
+        "category_bg_color": "#ff444a33",
+        "card_bg_color": "#FF444A26",
+        "text_button_bg_color": "#FF444A",
+        "description": "Support the education of underprivileged children by providing school supplies. Your donation will give them the resources they need to succeed in school.",
+        "price": 20
+      },
+      {
+        "picture": "donation11.jpg",
+        "title": "Warm Blankets for the Homeless",
+        "category": "clothing",
+        "category_bg_color": "#79c23f33",
+        "card_bg_color": "#79C23F26",
+        "text_button_bg_color": "#79C23F",
+        "description": "Help keep homeless individuals warm during the winter by donating blankets. Your generosity will provide comfort and protection.",
+        "price": 10
+      },
+      {
+        "picture": "donation12.jpg",
+        "title": "Community Food Gardens",
+        "category": "food",
+        "category_bg_color": "#f8714733",
+        "card_bg_color": "#F8714726",
+        "text_button_bg_color": "#F87147",
+        "description": "Support community food gardens that grow fresh produce for those in need. Your donation will contribute to sustainable food sources.",
+        "price": 45
+      }
+    ]
+  }
+  
