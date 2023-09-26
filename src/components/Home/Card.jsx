@@ -12,7 +12,7 @@ const Card = ({ data }) => {
     text_button_bg_color,
   } = data;
   return (
-    <Link to={`/donation_details/${id}`}>
+    <Link to={`/donation/${id}`}>
       <div className="rounded-lg overflow-hidden flex flex-col h-full">
         <div className="h-[200px]">
           <img className="object-cover h-full w-full" src={picture} />

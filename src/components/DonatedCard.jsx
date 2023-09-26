@@ -40,7 +40,7 @@ const DonatedCard = ({ data }) => {
           ${price}
         </span>
 
-        <Link to={`/donation_details/${id}`}>
+        <Link to={`/donation/${id}`}>
           <button
             className="bg-white px-4 py-2 rounded"
             style={{ backgroundColor: text_button_bg_color, color: "#fff" }}

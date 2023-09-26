@@ -25,7 +25,7 @@ const router = createBrowserRouter([
         loader: () => fetch("https://mehediy.github.io/data.json"),
       },
       {
-        path: "/donation_details/:id",
+        path: "/donation/:id",
         element: <CardDetails />,
         loader: () => fetch("https://mehediy.github.io/data.json"),
       },
