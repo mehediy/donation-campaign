@@ -1,15 +1,17 @@
-import { NavLink } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 import Logo from "/src/img/logo.png";
 
 const Navbar = () => {
   return (
     <div className="container mx-auto py-10">
-      <nav className="flex justify-between items-center">
+      <nav className="flex justify-between gap-4 items-center flex-col md:flex-row">
         <div>
-          <img src={Logo} />
+          <Link to={"/"}>
+            <img src={Logo} />
+          </Link>
         </div>
 
-        <ul className="flex gap-10">
+        <ul className="flex gap-4 md:gap-10">
           <li>
             <NavLink
               to={"/"}
@@ -17,7 +19,7 @@ const Navbar = () => {
                 isActive
                   ? "text-[#FF444A] underline font-bold text-lg"
                   : isPending
-                  ? ""
+                  ? "font-normal text-lg"
                   : "font-normal text-lg"
               }
             >
