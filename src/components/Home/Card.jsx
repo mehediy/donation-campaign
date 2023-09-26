@@ -15,7 +15,7 @@ const Card = ({ data }) => {
     <Link to={`/donation_details/${id}`}>
       <div className="rounded-lg overflow-hidden">
         <div>
-          <img src={"https://i.ibb.co/LpBhTzP/donation12.png"} />
+          <img src={picture} />
         </div>
         <div style={{ backgroundColor: card_bg_color }} className="p-4">
           <div

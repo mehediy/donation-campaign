@@ -36,10 +36,9 @@ const CardDetails = () => {
       <div className="flex flex-col gap-8">
         <div>
           <div className="rounded overflow-hidden relative">
-            <img
-              className="w-full"
-              src="https://i.ibb.co/LpBhTzP/donation12.png"
-            />
+            <div className="h-[700px] overflow-hidden">
+              <img className="w-full" src={picture} />
+            </div>
 
             <div className="absolute h-[100px] bg-[#00000080] bottom-0 right-0 left-0 flex flex-col justify-center items-start">
               <button

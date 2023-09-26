@@ -16,10 +16,7 @@ const DonatedCard = ({ data }) => {
   return (
     <div className="rounded-lg overflow-hidden flex">
       <div className="w-1/3 overflow-hidden">
-        <img
-          className="h-full object-cover"
-          src={"https://i.ibb.co/LpBhTzP/donation12.png"}
-        />
+        <img className="h-full object-cover" src={picture} />
       </div>
       <div
         style={{ backgroundColor: card_bg_color }}

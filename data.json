@@ -2,7 +2,7 @@
   "donation_data": [
       {
           "id": 1,
-          "picture": "donation1.jpg",
+          "picture": "https://i.ibb.co/hDcW1nY/9.jpg",
           "title": "Medical Supplies for Children",
           "category": "Health",
           "category_bg_color": "#0052ff33",
@@ -14,7 +14,7 @@
 
       {
           "id": 2,
-          "picture": "donation3.jpg",
+          "picture": "https://i.ibb.co/9Z4TRvg/3.jpg",
           "title": "Warm Clothing Drive",
           "category": "Clothing",
           "category_bg_color": "#79c23f33",
@@ -25,7 +25,7 @@
       },
       {
         "id": 3,
-        "picture": "donation2.jpg",
+        "picture": "https://i.ibb.co/60syyGd/1.jpg",
         "title": "Educational Scholarships",
         "category": "Education",
         "category_bg_color": "#ff444a33",
@@ -36,7 +36,7 @@
     },
       {
           "id": 4,
-          "picture": "donation4.jpg",
+          "picture": "https://i.ibb.co/f0qs6Mq/11.jpg",
           "title": "Food for Families",
           "category": "Food",
           "category_bg_color": "#f8714733",
@@ -47,7 +47,7 @@
       },
       {
           "id": 5,
-          "picture": "donation5.jpg",
+          "picture": "https://i.ibb.co/qgzMtx4/4.jpg",
           "title": "Medical Outreach Program",
           "category": "Health",
           "category_bg_color": "#0052ff33",
@@ -58,7 +58,7 @@
       },
       {
           "id": 6,
-          "picture": "donation6.jpg",
+          "picture": "https://i.ibb.co/RzbPG3v/8.jpg",
           "title": "Supporting Remote Education",
           "category": "Education",
           "category_bg_color": "#ff444a33",
@@ -69,7 +69,7 @@
       },
       {
           "id": 7,
-          "picture": "donation7.jpg",
+          "picture": "https://i.ibb.co/c8tHt9L/10.jpg",
           "title": "Winter Clothing for Children",
           "category": "Clothing",
           "category_bg_color": "#79c23f33",
@@ -80,7 +80,7 @@
       },
       {
           "id": 8,
-          "picture": "donation8.jpg",
+          "picture": "https://i.ibb.co/thkrjpf/5.jpg",
           "title": "Emergency Food Relief",
           "category": "Food",
           "category_bg_color": "#f8714733",
@@ -91,7 +91,7 @@
       },
       {
           "id": 9,
-          "picture": "donation9.jpg",
+          "picture": "https://i.ibb.co/rMGMMr2/6.jpg",
           "title": "Medical Equipment for Clinics",
           "category": "Health",
           "category_bg_color": "#0052ff33",
@@ -102,7 +102,7 @@
       },
       {
           "id": 10,
-          "picture": "donation10.jpg",
+          "picture": "https://i.ibb.co/q1hFHMn/donation12.png",
           "title": "School Supplies for Underprivileged Kids",
           "category": "Education",
           "category_bg_color": "#ff444a33",
@@ -113,7 +113,7 @@
       },
       {
           "id": 11,
-          "picture": "donation11.jpg",
+          "picture": "https://i.ibb.co/phscL3z/2.jpg",
           "title": "Warm Blankets for the Homeless",
           "category": "Clothing",
           "category_bg_color": "#79c23f33",
@@ -124,7 +124,7 @@
       },
       {
           "id": 12,
-          "picture": "donation12.jpg",
+          "picture": "https://i.ibb.co/TqkMxyD/7.jpg",
           "title": "Community Food Gardens",
           "category": "Food",
           "category_bg_color": "#f8714733",
