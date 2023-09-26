@@ -3,7 +3,7 @@ import Logo from "/src/img/logo.png";
 
 const Navbar = () => {
   return (
-    <div className="container mx-auto py-10">
+    <div className="container mx-auto py-10 px-2">
       <nav className="flex justify-between gap-4 items-center flex-col md:flex-row">
         <div>
           <Link to={"/"}>

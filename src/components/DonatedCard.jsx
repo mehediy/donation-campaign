@@ -32,7 +32,7 @@ const DonatedCard = ({ data }) => {
         </div>
         <h3
           //   style={{ color: text_button_bg_color }}
-          className="text-xl font-semibold"
+          className="text-lg md:text-xl font-semibold"
         >
           {title}
         </h3>
@@ -42,7 +42,7 @@ const DonatedCard = ({ data }) => {
 
         <Link to={`/donation/${id}`}>
           <button
-            className="bg-white px-4 py-2 rounded"
+            className="bg-white px-2 md:px-4 py-1 md:py-2 rounded"
             style={{ backgroundColor: text_button_bg_color, color: "#fff" }}
           >
             View Details

@@ -31,7 +31,7 @@ const Card = ({ data }) => {
           </div>
           <h3
             style={{ color: text_button_bg_color }}
-            className="text-xl font-semibold"
+            className="text-lg md:text-xl font-semibold"
           >
             {title}
           </h3>

@@ -12,9 +12,9 @@ const Donation = () => {
   // console.log(localData);
 
   return (
-    <div className="container mx-auto">
+    <div className="container mx-auto px-2">
       <div className="flex flex-col gap-6 items-center">
-        <div className="grid grid-cols-2 gap-4">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           {donatedData.length > 4 && showAll
             ? donatedData.map((data, idx) => (
                 <DonatedCard key={idx} data={data} />
