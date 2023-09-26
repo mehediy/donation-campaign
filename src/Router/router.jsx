@@ -3,6 +3,7 @@ import MainLayout from "../Layout/MainLayout";
 import Home from "../Pages/Home";
 import Donation from "../Pages/Donation";
 import Statistics from "../Pages/Statistics";
+import CardDetails from "../components/CardDetails/CardDetails";
 
 const router = createBrowserRouter([
   {
@@ -12,7 +13,7 @@ const router = createBrowserRouter([
       {
         path: "/",
         element: <Home />,
-        loader: () => fetch("./data.json"),
+        loader: () => fetch("https://mehediy.github.io/data.json"),
       },
       {
         path: "/donation",
@@ -21,6 +22,11 @@ const router = createBrowserRouter([
       {
         path: "/statistics",
         element: <Statistics />,
+      },
+      {
+        path: "/donation/:id",
+        element: <CardDetails />,
+        loader: () => fetch("https://mehediy.github.io/data.json"),
       },
     ],
   },
