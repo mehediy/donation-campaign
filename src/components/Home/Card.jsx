@@ -13,11 +13,14 @@ const Card = ({ data }) => {
   } = data;
   return (
     <Link to={`/donation_details/${id}`}>
-      <div className="rounded-lg overflow-hidden">
-        <div>
-          <img src={picture} />
+      <div className="rounded-lg overflow-hidden flex flex-col h-full">
+        <div className="h-[200px]">
+          <img className="object-cover h-full w-full" src={picture} />
         </div>
-        <div style={{ backgroundColor: card_bg_color }} className="p-4">
+        <div
+          style={{ backgroundColor: card_bg_color }}
+          className="p-4 flex-auto"
+        >
           <div
             style={{ backgroundColor: category_bg_color }}
             className="px-2 rounded w-fit mb-2"
