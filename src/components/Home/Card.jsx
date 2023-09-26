@@ -12,7 +12,7 @@ const Card = ({ data }) => {
     text_button_bg_color,
   } = data;
   return (
-    <Link to={`donation_details/${id}`}>
+    <Link to={`/donation_details/${id}`}>
       <div className="rounded-lg overflow-hidden">
         <div>
           <img src={"https://i.ibb.co/LpBhTzP/donation12.png"} />
