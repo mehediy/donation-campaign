@@ -12,6 +12,7 @@ const DonatedCard = ({ data }) => {
     text_button_bg_color,
     price,
   } = data;
+
   return (
     <div className="rounded-lg overflow-hidden flex">
       <div className="w-1/3 overflow-hidden">
