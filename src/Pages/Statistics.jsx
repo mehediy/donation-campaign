@@ -13,7 +13,7 @@ const Statistics = () => {
   const data = [
     ["Task", "Donation"],
     ["Your Donation", donatedData.length],
-    ["Total Donation", donation_data.length],
+    ["Total Donation", donation_data.length - donatedData.length],
   ];
 
   return (
